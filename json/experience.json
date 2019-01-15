@@ -1,0 +1,35 @@
+{
+    "experience": [
+        {
+            "company": "California State University Northridge",
+            "position": "Front-End Engineer",
+            "location": "Northridge",
+            "start_date": "February 2018",
+            "end_date": "",
+            "description": "Collaborate with Back-End Developers, Designers, and the Operations teams to develop accessible and high quality UI/UX products for CSUN and the surrounding community. Mentor interns and facilitate their integration into the project development and META+LAB",
+            "projects": [
+                {
+                    "title": "NOMI (Names of Matador Individuals)",
+                    "sub_description_one": "Build NOMI as a single page application that uses HTML, CSS/SASS, JavaScript, Vue.js/ Vuex and Laravel.",
+                    "sub_description_two": "Develop accessible and responsive web based UI.",
+                    "sub_description_three": "NOMI uses Vue.js with Vuex to create and manage dynamically rendered components to the DOM, and Laravel is used to manage our API.",
+                    "sub_description_four": "NOMI allows faculty to quickly learn students’ names through flashcards, which encourages student engagement in class."
+                },
+                {
+                    "title": "Pathfinder Co-Instructor",
+                    "description": "Lead a series of workshops and lectures to teach biweekly classes of 25 college students at CSUN, about the different frameworks and disciplines of web development."
+                }
+            ]
+        },
+        {
+            "company": "Girls Who Code",
+            "position": "Teaching Assistant",
+            "location": "Ford Research and Innovation Center, Palo Alto",
+            "start_date": "May",
+            "end_date": "July 2018",
+            "description": "Mentored 20 female students to continue their passion and education in CS through seven weeks of intense learning, teamwork development, “Women in Tech Spotlights,” field trips and female speakers, in an attempt to increase the representation of diverse women in the STEM workforce.",
+            "sub_description_one": "Enabled students to build web apps by introducing them to a spectrum of Computer Science disciplines, including Arduinos, game development, Machine Learning, and web development.",
+            "sub_description_two": "Communicated regularly with Girls Who Code and Ford staff to support seamless delivery and execution of speakers, workshops and field trips."
+        }
+    ]
+}

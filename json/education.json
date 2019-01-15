@@ -1,0 +1,22 @@
+{
+    "education": [
+        {
+            "institution": "California State University Northridge",
+            "location": "Northridge",
+            "start_date": "August 2017",
+            "end_date": "May 2021",
+            "major": "Computer Science",
+            "degree": "BS", 
+            "description": ""
+        },
+        {
+            "institution": "Girls Who Code Summer Immersion Program",
+            "location": "Google LA",
+            "start_date": "June",
+            "end_date": "July 2015",
+            "major": "",
+            "degree": "", 
+            "description": "The Girls Who Code Summer Immersion Program (GWC SIP) is a seven-week intensive introduction to the Computer Science. Students learn to code through real-world projects in web development, apps, robotics, and video games. Each program is hosted by different tech companies, who offer guest speakers, workshops and a vast connection to female engineers and entrepreneurs. In addition, students go on field trips to different tech companies and develop a final project, in which students demonstrate their new skills on an issue they are passionate about." 
+        }
+    ]
+}
