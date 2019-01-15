@@ -1,0 +1,40 @@
+{
+    "skills": [
+        "Java",
+        "Python",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SASS",
+        "Docker",
+        "Vue.js",
+        "Vuex",
+        "Git",
+        "Laravel",
+        "Fluent Spanish"
+    ],
+    "courses": [
+        "COMP 282: Advanced Data Structures",
+        "COMP 222: Computer Organization",
+        "COMP 256: Discrete Structures",
+        "COMP 182: Data Structures and Project Design",
+        "COMP 122: Computer Architecture and Assembly"
+    ],
+    "awards":[
+        {
+            "title": "3rd Place Finalist CSUN Bullring, EduCode",
+            "institution": "CSUN",
+            "date": "2016"
+        },
+        {
+            "title": "Runner Up of California: LA and OC Metro Competition",
+            "institution": "National Center for Women & Information Technology",
+            "date": "2016, 2017"
+        },
+        {
+            "title": "Dr. Karin Duran Memorial Youth Scholarship",
+            "institution": "Comisión Femenil",
+            "date": "2017"
+        }
+    ]
+}

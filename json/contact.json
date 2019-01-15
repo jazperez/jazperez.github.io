@@ -1,0 +1,19 @@
+{
+    "display_name": "Jazmin Perez", 
+    "objective": "Eager to learn and a highly motivated individual seeking a summer internship as a Software Engineer.",
+    "contact":[
+        {
+        "email": "jazmin.perez.634@my.csun.edu",
+        "city": "Los Angeles",
+        "state": "CA",
+        "links": [
+                {
+                    "github": "github.com/jaz24"
+                },
+                {
+                    "linkedin": "linkedin.com/in/jazmin-perez24"
+                }
+            ]
+        }
+    ]
+}
