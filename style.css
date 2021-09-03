@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #1B1B2F;
+}
+
+.container {
+    display: flex;
+    margin: 25% 25%;
+}
+
+.tool-icon {
+    margin: auto;
+    color: white; 
+    display: block;
+}
+
+.content {
+    margin: auto;
+    display: block;
+    color: white;
+    font-family: Verdana, sans-serif;
+}
